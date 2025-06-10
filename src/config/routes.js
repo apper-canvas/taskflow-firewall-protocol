@@ -1,13 +1,13 @@
-import Home from '../pages/Home';
-import NotFound from '../pages/NotFound';
+import HomePage from '@/components/pages/HomePage';
+import NotFoundPage from '@/components/pages/NotFoundPage';
 
 export const routes = {
   home: {
     id: 'home',
     label: 'Tasks',
     path: '/tasks',
-    icon: 'CheckSquare',
-    component: Home
+icon: 'CheckSquare',
+    component: HomePage
   }
 };
 
