@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Review quarterly business metrics and prepare executive summary",
+    "completed": false,
+    "category": "Work",
+    "priority": "High",
+    "dueDate": "2024-01-15",
+    "createdAt": 1705123200000,
+    "completedAt": null
+  },
+  {
+    "id": "2", 
+    "title": "Schedule dentist appointment for annual cleaning",
+    "completed": true,
+    "category": "Health",
+    "priority": "Medium",
+    "dueDate": null,
+    "createdAt": 1705036800000,
+    "completedAt": 1705040400000
+  },
+  {
+    "id": "3",
+    "title": "Buy groceries for weekend meal prep",
+    "completed": false,
+    "category": "Shopping",
+    "priority": "Medium",
+    "dueDate": "2024-01-14",
+    "createdAt": 1704950400000,
+    "completedAt": null
+  },
+  {
+    "id": "4",
+    "title": "Plan family vacation itinerary for summer trip",
+    "completed": false,
+    "category": "Personal",
+    "priority": "Low",
+    "dueDate": "2024-01-20",
+    "createdAt": 1704864000000,
+    "completedAt": null
+  },
+  {
+    "id": "5",
+    "title": "Complete online certification course module 3",
+    "completed": true,
+    "category": "Work",
+    "priority": "Medium",
+    "dueDate": null,
+    "createdAt": 1704777600000,
+    "completedAt": 1704781200000
+  }
+]
